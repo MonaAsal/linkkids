@@ -1,1 +1,9 @@
-dddd
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.moddakir.kids",
+    "sha256_cert_fingerprints":
+    ["79:6C:6C:8E:5F:6B:35:11:AB:9C:D9:90:05:A1:8D:D1:8B:89:FB:BA:0F:B0:E4:F8:E6:C1:7A:53:AF:47:AF:76"]
+  }
+}]
